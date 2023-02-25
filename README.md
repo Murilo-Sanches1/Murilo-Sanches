@@ -72,7 +72,8 @@ detalhista, organizado e cooperativo, busco sempre um código coerente e limpo.
   |------|-------|:-:|:-:|
   | [DOM-Modal :window: ](https://github.com/Murilo-Sanches/DOM-Modal) | HTML, CSS, TypeScript | **TypeScript** | :white_check_mark: |
   | [DOM-GuessTheNumber :100: ](https://github.com/Murilo-Sanches/DOM-GuessTheNumber) | HTML, CSS, TypeScript | **TypeScript** | :white_check_mark: |
-  | [DOM-PigGame 🐷: ](https://github.com/Murilo-Sanches/DOM-PigGame) | HTML, CSS, TypeScript | **TypeScript** | :white_check_mark: |
+  | [DOM-PigGame 🐷 ](https://github.com/Murilo-Sanches/DOM-PigGame) | HTML, CSS, TypeScript | **TypeScript** | :white_check_mark: |
+  | [DOM-Bankist :money_with_wings: ](https://github.com/Murilo-Sanches/DOM-Bankist) | HTML, CSS, TypeScript | **TypeScript** | :white_check_mark: |
   
 </details>
 
