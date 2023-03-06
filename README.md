@@ -91,6 +91,7 @@ detalhista, organizado e cooperativo, busco sempre um código coerente e limpo.
     
   | Projeto | Tecnologias | Linguagem Principal | Finalizado |
   |------|-------|:-:|:-:|
+  | [Natours :herb:](https://github.com/Murilo-Sanches/Natours) | NodeJS, MongoDB, Mongoose, Pug | **JavaScript** | :construction: |
     
 </details>      
     
