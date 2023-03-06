@@ -91,7 +91,7 @@ detalhista, organizado e cooperativo, busco sempre um código coerente e limpo.
     
   | Projeto | Tecnologias | Linguagem Principal | Finalizado |
   |------|-------|:-:|:-:|
-  | [Natours :herb:](https://github.com/Murilo-Sanches/Natours) | NodeJS, MongoDB, Mongoose, Pug | **JavaScript** | :x: |
+  | [Natours :herb: ](https://github.com/Murilo-Sanches/Natours) | NodeJS, MongoDB, Mongoose, Pug | **JavaScript** | :x: |
     
 </details>      
     
@@ -100,7 +100,8 @@ detalhista, organizado e cooperativo, busco sempre um código coerente e limpo.
     
   | Projeto | Tecnologias | Linguagem Principal | Finalizado |
   |------|-------|:-:|:-:|
-  | [Limo-Kotlin :lemon:](https://github.com/Murilo-Sanches/limo-kotlin) | Android Studio, Kotlin | **Kotlin** | :white_check_mark: |
+  | [Limo-Kotlin :lemon: ](https://github.com/Murilo-Sanches/limo-kotlin) | Android Studio, Kotlin | **Kotlin** | :white_check_mark: |
+  | [English-Words :capital_abcd: ](https://github.com/Murilo-Sanches/English-Words) | Flutter, Dart | **Dart** | :white_check_mark: |
   
 </details>      
     
