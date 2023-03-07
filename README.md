@@ -114,6 +114,7 @@ detalhista, organizado e cooperativo, busco sempre um código coerente e limpo.
     
   | Projeto | Tecnologias | Linguagem Principal | Finalizado |
   |------|-------|:-:|:-:|
+  | [Task-Manager :books: ](https://github.com/Murilo-Sanches/Task-Manager) | NodeJS, TypeScript, MySQL, Flutter, Dart | **TypeScript - Dart** | :x: |
     
 </details>             
 
