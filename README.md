@@ -124,6 +124,7 @@ detalhista, organizado e cooperativo, busco sempre um código coerente e limpo.
   |------|-------|:-:|:-:|
   | [Dart-Basics :dart: ](https://github.com/Murilo-Sanches/Dart-Basics) | Dart | **Dart** | :white_check_mark: |
   | [Python-Basics :snake: ](https://github.com/Murilo-Sanches/Python-Basics) | Python | **Python** | :white_check_mark: |
+  | [ReactTSX-Basics :blue_square: ](https://github.com/Murilo-Sanches/ReactTSX-Basics) | ReactJS, TypeScript, SCSS | **TypeScript** | :x: |
   <!--
   | [Fibonacci](https://github.com/Murilo-Sanches/) | Typescript | Typescript | :white_check_mark: |
   | [Fibonacci Memorization 💪](https://github.com/Murilo-Sanches/) | Typescript | Typescript | :x: |
