@@ -94,7 +94,7 @@ detalhista, organizado e cooperativo, busco sempre um código coerente e limpo.
     
   | Projeto | Tecnologias | Linguagem Principal | Finalizado |
   |------|-------|:-:|:-:|
-  | [Natours :herb: ](https://github.com/Murilo-Sanches/Natours) | NodeJS, MongoDB, Mongoose, Pug | **JavaScript** | :x: |
+  | [Natours-Node :herb: ](https://github.com/Murilo-Sanches/Natours-Node) | NodeJS, MongoDB, Mongoose, Pug | **JavaScript** | :x: |
   | [Titos-Burger :hamburger: ](https://github.com/Murilo-Sanches/Titos-Burger/) | PHP, MySQL, HTML, CSS, Bootstrap, JavaScript, JQuery, Ajax | **PHP** | :x: |
     
 </details>      
