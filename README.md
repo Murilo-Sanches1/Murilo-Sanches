@@ -83,6 +83,7 @@ detalhista, organizado e cooperativo, busco sempre um código coerente e limpo.
   
   | Projeto | Tecnologias | Linguagem Principal | Finalizado |
   |------|-------|:-:|:-:|
+  | [NodeJS-Prisma :small_red_triangle: ](https://github.com/Murilo-Sanches/NodeJS-Prisma) | NodeJS, TypeScript, MySQL, Prisma | **TypeScript** | :white_check_mark: |
       
 </details>  
 
