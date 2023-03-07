@@ -85,6 +85,7 @@ detalhista, organizado e cooperativo, busco sempre um código coerente e limpo.
   |------|-------|:-:|:-:|
   | [NodeJS-Prisma :small_red_triangle: ](https://github.com/Murilo-Sanches/NodeJS-Prisma) | NodeJS, TypeScript, MySQL, Prisma | **TypeScript** | :white_check_mark: |
   | [API-PHP :package: ](https://github.com/Murilo-Sanches/API-PHP) | PHP, MySQL | **PHP** | :white_check_mark: |
+  | [Projeto-Integrador__Back-End :package: ](https://github.com/Murilo-Sanches/Projeto-Integrador__Back-End) | NodeJS, TypeScript, MongoDB | **TypeScript** | :x: |
       
 </details>  
 
