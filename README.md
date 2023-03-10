@@ -5,8 +5,8 @@
 **Murilo-Sanches/Murilo-Sanches** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
   Atualmente estou cursando TII (Técnico em informática para Internet) no Senac, já possuo diploma técnico em
-Desenvolvimento Front-End e Back-End, agora me aprofundando em Mobile. Sou dedicado,
-detalhista, organizado e cooperativo, busco sempre um código coerente e limpo.
+Desenvolvimento [Front-End](#front-end) e [Back-End](#back-end), agora me aprofundando em [Mobile](#mobile). Sou dedicado,
+detalhista, organizado e cooperativo, busco sempre um [código coerente e limpo](#sparkles-portfólio-sparkles).
 
 - 🔭 Estou à procura de um emprego
 - 🌱 Focado estudando React Native e Flutter
@@ -68,13 +68,13 @@ detalhista, organizado e cooperativo, busco sempre um código coerente e limpo.
 <details open>
   <summary><h3>Front-End</h3></summary>
   
-  | Projeto | Tecnologias | Linguagem Principal | Finalizado |
-  |------|-------|:-:|:-:|
-  | [DOM-Modal :window: ](https://github.com/Murilo-Sanches/DOM-Modal) | HTML, CSS, TypeScript | **TypeScript** | :white_check_mark: |
-  | [Guess The Number :100: ](https://github.com/Murilo-Sanches/DOM-GuessTheNumber) | HTML, CSS, TypeScript | **TypeScript** | :white_check_mark: |
-  | [Pig Game 🐷 ](https://github.com/Murilo-Sanches/DOM-PigGame) | HTML, CSS, TypeScript | **TypeScript** | :white_check_mark: |
-  | [Bankist :money_with_wings: ](https://github.com/Murilo-Sanches/DOM-Bankist) | HTML, CSS, TypeScript | **TypeScript** | :white_check_mark: |
-  | [Bankist-Page :money_with_wings: ](https://github.com/Murilo-Sanches/DOM-Bankist-LandingPage) | HTML, CSS, TypeScript | **TypeScript** | :white_check_mark: |
+  | Projeto | Tecnologias | Linguagem Principal | Finalizado | **Site Online** |
+  |------|-------|:-:|:-:|:-:|
+  | [DOM-Modal :window: ](https://github.com/Murilo-Sanches/DOM-Modal) | HTML, CSS, TypeScript | **TypeScript** | :white_check_mark: | :see_no_evil: |
+  | [Guess The Number :100: ](https://github.com/Murilo-Sanches/DOM-GuessTheNumber) | HTML, CSS, TypeScript | **TypeScript** | :white_check_mark: | [visitar 👀](https://murilo-sanches.github.io/guess-the-number/) |
+  | [Pig Game 🐷 ](https://github.com/Murilo-Sanches/DOM-PigGame) | HTML, CSS, TypeScript | **TypeScript** | :white_check_mark: | [visitar 👀](https://murilo-sanches.github.io/pig-game/) |
+  | [Bankist :money_with_wings: ](https://github.com/Murilo-Sanches/DOM-Bankist) | HTML, CSS, TypeScript | **TypeScript** | :white_check_mark: | [visitar 👀](https://murilo-sanches.github.io/bankist/) |
+  | [Bankist-Page :money_with_wings: ](https://github.com/Murilo-Sanches/DOM-Bankist-LandingPage) | HTML, CSS, TypeScript | **TypeScript** | :white_check_mark: | [visitar 👀](https://murilo-sanches.github.io/bankist-page/) |
   
 </details>
 
