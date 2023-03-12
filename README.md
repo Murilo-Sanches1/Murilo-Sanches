@@ -70,11 +70,11 @@ detalhista, organizado e cooperativo, busco sempre um [código coerente e limpo]
   
   | Projeto | Tecnologias | Linguagem Principal | Finalizado | **Site Online** |
   |------|-------|:-:|:-:|:-:|
-  | [DOM-Modal :window: ](https://github.com/Murilo-Sanches/DOM-Modal) | HTML, CSS, TypeScript | **TypeScript** | :white_check_mark: | :see_no_evil: |
-  | [Guess The Number :100: ](https://github.com/Murilo-Sanches/DOM-GuessTheNumber) | HTML, CSS, TypeScript | **TypeScript** | :white_check_mark: | [visitar 👀](https://murilo-sanches.github.io/guess-the-number/) |
-  | [Pig Game 🐷 ](https://github.com/Murilo-Sanches/DOM-PigGame) | HTML, CSS, TypeScript | **TypeScript** | :white_check_mark: | [visitar 👀](https://murilo-sanches.github.io/pig-game/) |
-  | [Bankist :money_with_wings: ](https://github.com/Murilo-Sanches/DOM-Bankist) | HTML, CSS, TypeScript | **TypeScript** | :white_check_mark: | [visitar 👀](https://murilo-sanches.github.io/bankist/) |
-  | [Bankist-Page :money_with_wings: ](https://github.com/Murilo-Sanches/DOM-Bankist-LandingPage) | HTML, CSS, TypeScript | **TypeScript** | :white_check_mark: | [visitar 👀](https://murilo-sanches.github.io/bankist-page/) |
+  | [DOM-Modal :window: ](https://github.com/Murilo-Sanches/DOM-Modal) | HTML - CSS - TypeScript | **TypeScript** | :white_check_mark: | :see_no_evil: |
+  | [Guess The Number :100: ](https://github.com/Murilo-Sanches/DOM-GuessTheNumber) | HTML - CSS - TypeScript | **TypeScript** | :white_check_mark: | [visitar 👀](https://murilo-sanches.github.io/guess-the-number/) |
+  | [Pig Game 🐷 ](https://github.com/Murilo-Sanches/DOM-PigGame) | HTML - CSS - TypeScript | **TypeScript** | :white_check_mark: | [visitar 👀](https://murilo-sanches.github.io/pig-game/) |
+  | [Bankist :money_with_wings: ](https://github.com/Murilo-Sanches/DOM-Bankist) | HTML - CSS - TypeScript | **TypeScript** | :white_check_mark: | [visitar 👀](https://murilo-sanches.github.io/bankist/) |
+  | [Bankist-Page :money_with_wings: ](https://github.com/Murilo-Sanches/DOM-Bankist-LandingPage) | HTML - CSS - TypeScript | **TypeScript** | :white_check_mark: | [visitar 👀](https://murilo-sanches.github.io/bankist-page/) |
   
 </details>
 
@@ -83,9 +83,9 @@ detalhista, organizado e cooperativo, busco sempre um [código coerente e limpo]
   
   | Projeto | Tecnologias | Linguagem Principal | Finalizado |
   |------|-------|:-:|:-:|
-  | [NodeJS-Prisma :small_red_triangle: ](https://github.com/Murilo-Sanches/NodeJS-Prisma) | NodeJS, TypeScript, MySQL, Prisma | **TypeScript** | :white_check_mark: |
-  | [API-PHP :package: ](https://github.com/Murilo-Sanches/API-PHP) | PHP, MySQL | **PHP** | :white_check_mark: |
-  | [Projeto-Integrador__Back-End :package: ](https://github.com/Murilo-Sanches/Projeto-Integrador__Back-End) | NodeJS, TypeScript, MongoDB | **TypeScript** | :x: |
+  | [NodeJS-Prisma :small_red_triangle: ](https://github.com/Murilo-Sanches/NodeJS-Prisma) | NodeJS - TypeScript - MySQL - Prisma | **TypeScript** | :white_check_mark: |
+  | [API-PHP :package: ](https://github.com/Murilo-Sanches/API-PHP) | PHP - MySQL | **PHP** | :white_check_mark: |
+  | [Projeto-Integrador__Back-End :package: ](https://github.com/Murilo-Sanches/Projeto-Integrador__Back-End) | NodeJS - TypeScript - MongoDB | **TypeScript** | :x: |
       
 </details>  
 
@@ -94,8 +94,8 @@ detalhista, organizado e cooperativo, busco sempre um [código coerente e limpo]
     
   | Projeto | Tecnologias | Linguagem Principal | Finalizado |
   |------|-------|:-:|:-:|
-  | [Natours-Node :herb: ](https://github.com/Murilo-Sanches/Natours-Node) | NodeJS, MongoDB, Mongoose, Pug | **JavaScript** | :x: |
-  | [Titos-Burger :hamburger: ](https://github.com/Murilo-Sanches/Titos-Burger/) | PHP, MySQL, HTML, CSS, Bootstrap, JavaScript, JQuery, Ajax | **PHP** | :x: |
+  | [Natours-Node :herb: ](https://github.com/Murilo-Sanches/Natours-Node) | NodeJS - MongoDB - Mongoose - Pug | **JavaScript** | :x: |
+  | [Titos-Burger :hamburger: ](https://github.com/Murilo-Sanches/Titos-Burger/) | PHP - MySQL - HTML - CSS - Bootstrap - JavaScript - JQuery - Ajax | **PHP** | :x: |
     
 </details>      
     
@@ -104,8 +104,8 @@ detalhista, organizado e cooperativo, busco sempre um [código coerente e limpo]
     
   | Projeto | Tecnologias | Linguagem Principal | Finalizado |
   |------|-------|:-:|:-:|
-  | [Limo-Kotlin :lemon: ](https://github.com/Murilo-Sanches/limo-kotlin) | Android Studio, Kotlin | **Kotlin** | :white_check_mark: |
-  | [English-Words :capital_abcd: ](https://github.com/Murilo-Sanches/English-Words) | Flutter, Dart | **Dart** | :white_check_mark: |
+  | [Limo-Kotlin :lemon: ](https://github.com/Murilo-Sanches/limo-kotlin) | Android Studio - Kotlin | **Kotlin** | :white_check_mark: |
+  | [English-Words :capital_abcd: ](https://github.com/Murilo-Sanches/English-Words) | Flutter - Dart | **Dart** | :white_check_mark: |
   
 </details>      
     
@@ -114,7 +114,7 @@ detalhista, organizado e cooperativo, busco sempre um [código coerente e limpo]
     
   | Projeto | Tecnologias | Linguagem Principal | Finalizado |
   |------|-------|:-:|:-:|
-  | [Task-Manager :books: ](https://github.com/Murilo-Sanches/Task-Manager) | NodeJS, TypeScript, MySQL, Flutter, Dart | **TypeScript - Dart** | :x: |
+  | [Task-Manager :books: ](https://github.com/Murilo-Sanches/Task-Manager) | NodeJS - TypeScript - MySQL - Flutter - Dart | **TypeScript - Dart** | :x: |
     
 </details>             
 
@@ -125,9 +125,10 @@ detalhista, organizado e cooperativo, busco sempre um [código coerente e limpo]
   |------|-------|:-:|:-:|
   | [Dart-Basics :dart: ](https://github.com/Murilo-Sanches/Dart-Basics) | Dart | **Dart** | :white_check_mark: |
   | [Python-Basics :snake: ](https://github.com/Murilo-Sanches/Python-Basics) | Python | **Python** | :white_check_mark: |
-  | [ReactTSX-Basics :blue_square: ](https://github.com/Murilo-Sanches/ReactTSX-Basics) | ReactJS, TypeScript, SCSS | **TypeScript** | :x: |
-  | [Deno-Basics :t-rex: ](https://github.com/Murilo-Sanches/Deno-Basics) | Deno, TypeScript | **TypeScript** | :white_check_mark: |
-  | [Tailwind-Basics :nail_care: ](https://github.com/Murilo-Sanches/Tailwind-Basics) | TailwindCSS, HTML, JavaScript | **JavaScript** | :white_check_mark: |
+  | [ReactTSX-Basics :blue_square: ](https://github.com/Murilo-Sanches/ReactTSX-Basics) | ReactJS - TypeScript, SCSS | **TypeScript** | :x: |
+  | [Deno-Basics :t-rex: ](https://github.com/Murilo-Sanches/Deno-Basics) | Deno - TypeScript | **TypeScript** | :white_check_mark: |
+  | [Tailwind-Basics :nail_care: ](https://github.com/Murilo-Sanches/Tailwind-Basics) | TailwindCSS - HTML - JavaScript | **JavaScript** | :white_check_mark: |
+  | [C#-Basics :hash: ](https://github.com/Murilo-Sanches/CS-Basics) | C# - .NET | **C#** | :x: |
   <!--
   | [Fibonacci](https://github.com/Murilo-Sanches/) | Typescript | Typescript | :white_check_mark: |
   | [Fibonacci Memorization 💪](https://github.com/Murilo-Sanches/) | Typescript | Typescript | :x: |
