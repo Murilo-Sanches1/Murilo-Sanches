@@ -10,7 +10,7 @@ detalhista, organizado e cooperativo, busco sempre um [código coerente e limpo]
 
 - 🔭 Estou à procura de um emprego
 - 🌱 Focado estudando React Native e Flutter
-- 👯 Estou aberto à colaborações para projetos em Mobile
+- 👯 Estou aberto à colaborações para projetos Mobile
 - 🤔 Como centraliza uma &lt;div> ???
 - 😄 Pronomes: ele/dele
 > 📫 Meu contato: <a href="#-contato">Me mande uma mensagem</a>
