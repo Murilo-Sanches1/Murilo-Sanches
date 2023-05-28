@@ -75,6 +75,10 @@ detalhista, organizado e cooperativo, busco sempre um [código coerente e limpo]
   | [Pig Game 🐷 ](https://github.com/Murilo-Sanches/DOM-PigGame) | HTML - CSS - TypeScript | **TypeScript** | :white_check_mark: | [visitar 👀](https://murilo-sanches.github.io/pig-game/) |
   | [Bankist :money_with_wings: ](https://github.com/Murilo-Sanches/DOM-Bankist) | HTML - CSS - TypeScript | **TypeScript** | :white_check_mark: | [visitar 👀](https://murilo-sanches.github.io/bankist/) |
   | [Bankist-Page :money_with_wings: ](https://github.com/Murilo-Sanches/DOM-Bankist-LandingPage) | HTML - CSS - TypeScript | **TypeScript** | :white_check_mark: | [visitar 👀](https://murilo-sanches.github.io/bankist-page/) |
+  | [Natours :green_heart: ](https://github.com/Murilo-Sanches/natours) | HTML - CSS - SCSS | **SCSS** | :white_check_mark: | [visitar 👀](https://murilo-sanches.github.io/natours/) |
+  | [Trillo :hotel: ](https://github.com/Murilo-Sanches/trillo) | HTML - CSS - SCSS | **SCSS** | :white_check_mark: | [visitar 👀](https://murilo-sanches.github.io/trillo/) |
+  | [Nexter :house: ](https://github.com/Murilo-Sanches/nexter) | HTML - CSS - SCSS | **SCSS** | :white_check_mark: | [visitar 👀](https://murilo-sanches.github.io/nexter/) |
+
   
 </details>
 
@@ -86,6 +90,8 @@ detalhista, organizado e cooperativo, busco sempre um [código coerente e limpo]
   | [NodeJS-Prisma :small_red_triangle: ](https://github.com/Murilo-Sanches/NodeJS-Prisma) | NodeJS - TypeScript - MySQL - Prisma | **TypeScript** | :white_check_mark: |
   | [API-PHP :package: ](https://github.com/Murilo-Sanches/API-PHP) | PHP - MySQL | **PHP** | :white_check_mark: |
   | [Projeto-Integrador__Back-End :package: ](https://github.com/Murilo-Sanches/Projeto-Integrador__Back-End) | NodeJS - TypeScript - MongoDB | **TypeScript** | :x: |
+  | [Spring Crud :package: ](https://github.com/Murilo-Sanches/spring-crud) | Java - Spring | **Java** | :white_check_mark: |
+  | [PokeAPI :package: ](https://github.com/Murilo-Sanches/pokeapi) | C# - MySQL - ASP.NET - Swagger | **C#** | :white_check_mark: |
       
 </details>  
 
