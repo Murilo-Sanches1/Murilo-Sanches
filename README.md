@@ -4,8 +4,8 @@
 <!--
 **Murilo-Sanches/Murilo-Sanches** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-  Atualmente estou cursando TII (Técnico em informática para Internet) no Senac, já possuo diploma técnico em
-Desenvolvimento [Front-End](#front-end) e [Back-End](#back-end), agora me aprofundando em [Mobile](#mobile). Sou dedicado,
+  Sou um desenvolvedor Full-Stack e estudande de Ciência da Computação. Possuo diploma técnico em
+Desenvolvimento [Front-End](#front-end), [Back-End](#back-end) e [Mobile](#mobile). Sou dedicado,
 detalhista, organizado e cooperativo, busco sempre um [código coerente e limpo](#sparkles-portfólio-sparkles).
 
 - 🔭 Estou à procura de um emprego
